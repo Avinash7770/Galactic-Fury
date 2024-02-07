@@ -1,4 +1,5 @@
 # Galactic Fury 🚀🚀
+![Gameplay Screenshot](gameplay-screenshot/SCR1.png)
 
 ## Overview
 Galactic Fury is an exciting space-themed game that combines fast-paced action with challenging gameplay. Navigate through a cosmic environment filled with asteroids, control a powerful spaceship, and engage in intense battles.
@@ -72,12 +73,16 @@ Your mission is to survive the onslaught of asteroids and enemy spaceships. Dest
 ### Bullets
 - Fired by the player's spaceship to eliminate asteroids.
 - Limited range and lifetime.
+
+
 ![Bullets](images/fire_blue.png)
 
 ### Explosions
 - Visually appealing explosions upon asteroid destruction.
 - Animations for player spaceship destruction.
-  ![Explosions](images/explosions/typeA.gif)
+
+  
+  ![Explosions](images/explosions/typeA.png)
 
 ## Tips and Strategies
 - Stay Mobile: Constantly maneuver your spaceship to avoid collisions.
