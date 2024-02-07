@@ -82,7 +82,7 @@ Your mission is to survive the onslaught of asteroids and enemy spaceships. Dest
 - Animations for player spaceship destruction.
 
   
-  ![Explosions](images/explosions/type_A.gif)
+  ![Explosions](images/explosions/type_A.png)
 
 ## Tips and Strategies
 - Stay Mobile: Constantly maneuver your spaceship to avoid collisions.
