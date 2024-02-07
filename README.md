@@ -1,4 +1,4 @@
-# Galactic Fury
+# Galactic Fury 🚀🚀
 
 ## Overview
 Galactic Fury is an exciting space-themed game that combines fast-paced action with challenging gameplay. Navigate through a cosmic environment filled with asteroids, control a powerful spaceship, and engage in intense battles.
@@ -31,7 +31,7 @@ Galactic Fury is an exciting space-themed game that combines fast-paced action w
 - Storage: 100 MB available space
 
 ### Installation
-1. Download the game from [official website/link].
+1. Download the game from [[official website/link](https://github.com/Avinash7770/Galactic-Fury)].
 2. Extract the files to your preferred location.
 3. Run the executable file (e.g., GalacticFury.exe).
 
