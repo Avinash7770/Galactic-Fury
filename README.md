@@ -31,7 +31,7 @@ Galactic Fury is an exciting space-themed game that combines fast-paced action w
 - Storage: 100 MB available space
 
 ### Installation
-1. Download the game from [[official website/link](https://github.com/Avinash7770/Galactic-Fury)].
+1. Download the game from [[Here](https://github.com/Avinash7770/Galactic-Fury)].
 2. Extract the files to your preferred location.
 3. Run the executable file (e.g., GalacticFury.exe).
 
@@ -42,7 +42,7 @@ Galactic Fury is an exciting space-themed game that combines fast-paced action w
 - Right/Left Arrow: Rotate spaceship
 
 ## Gameplay
-
+![Gameplay Screenshot](gameplay-screenshot/SCR1.png)
 ### Objective
 Your mission is to survive the onslaught of asteroids and enemy spaceships. Destroy asteroids and avoid collisions to stay alive. Earn points by shooting down asteroids.
 
@@ -52,7 +52,9 @@ Your mission is to survive the onslaught of asteroids and enemy spaceships. Dest
 - **Bullets:** Fired by the player's spaceship to destroy asteroids.
 - **Explosions:** Occur when an asteroid is destroyed, providing visual feedback.
 
+
 ### Scoring
+![Gameplay Screenshot](gameplay-screenshot/SCR2.png)
 - Destroying an asteroid: +10 points
 - Colliding with an asteroid: Reset to base score (0 points)
 
@@ -70,10 +72,12 @@ Your mission is to survive the onslaught of asteroids and enemy spaceships. Dest
 ### Bullets
 - Fired by the player's spaceship to eliminate asteroids.
 - Limited range and lifetime.
+![Bullets](images/fire_blue.png)
 
 ### Explosions
 - Visually appealing explosions upon asteroid destruction.
 - Animations for player spaceship destruction.
+  ![Explosions](images/explosions/typeA.gif)
 
 ## Tips and Strategies
 - Stay Mobile: Constantly maneuver your spaceship to avoid collisions.
