@@ -1,4 +1,4 @@
-# Galactic Fury 🚀🚀
+# Galactic Fury [[🚀🚀](https://drive.google.com/file/d/1F1_IQqjqQc1mMt0ZZiaKKiXJ-sajlF6u/view?usp=sharing)]
 ![Gameplay Screenshot](gameplay-screenshot/SCR1.png)
 
 ## Overview
@@ -32,7 +32,7 @@ Galactic Fury is an exciting space-themed game that combines fast-paced action w
 - Storage: 100 MB available space
 
 ### Installation
-1. Download the game from [[Here](https://github.com/Avinash7770/Galactic-Fury)].
+1. Download the game from [[Here](https://drive.google.com/file/d/1F1_IQqjqQc1mMt0ZZiaKKiXJ-sajlF6u/view?usp=sharing)].
 2. Extract the files to your preferred location.
 3. Run the executable file (e.g., GalacticFury.exe).
 
